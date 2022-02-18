@@ -125,4 +125,4 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 4. What do we need in order to have a _many to many_ relationship between two tables?
 
-  - To create a _many to many_  relationship between two tables, we need to use the JOIN statement to join the table together. 
+  - To create a _many to many_  relationship between two tables, we need to use the JOIN statement to join the table together. Classic example is a product table to a customer table.
